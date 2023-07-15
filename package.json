@@ -1,12 +1,12 @@
 {
   "name": "hange-random-weight",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Randomly pick a element from an array of objects by a weight callback",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:hjp965329780/hange-random-weight.git"
   },
   "scripts": {
     "build": "npx tsc -p .",
